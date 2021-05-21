@@ -10,7 +10,7 @@
 ## 🥁 About Me
 
 - 🔭 I’m currently working on [Presto Assistant](https://www.presto-assistant.com/) and [Text-Em-All](https://www.text-em-all.com/)
-- 🌱 I’m currently learning _SEMANTIC HTML_
+- 🌱 I’m currently learning about `node` and `accessibility`
 - 🤝 I’m looking to collaborate on getting the [ReactJS Dallas site](https://github.com/reactjs-dallas/reactjs-dallas-site) running on all cylinders.
 - 🤔 I'm looking for help with asking fine arts teachers questions about their workflows to improve [Presto Assistant](https://www.presto-assistant.com/)
 - 💬 Ask me about how I switched careers from teaching band to slinging code and organizing the community
